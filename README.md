@@ -31,7 +31,9 @@ A responsive frontend clone of the Amazon website built with **HTML** and **CSS*
 ---
 ##ScreenShots
 ![image](https://github.com/user-attachments/assets/8bd8b77c-432a-4218-b8f4-20f36f8da00e)
+---
 ![image](https://github.com/user-attachments/assets/5b67bab4-4ed0-4f65-ac5b-441075aae6e6)
+---
 ![image](https://github.com/user-attachments/assets/7a6a321a-eea8-40ff-87da-91c7708960d2)
 ---
 ##📧 Contact
