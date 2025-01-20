@@ -38,6 +38,7 @@ A responsive frontend clone of the Amazon website built with **HTML** and **CSS*
 ---
 ##📧 Contact
 If you have any questions or suggestions, feel free to reach out:
+---
 📧 Email: farjanpathan143@gmail.com
 👤 GitHub: farjan14
 
